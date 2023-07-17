@@ -1,0 +1,16 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/ender_eye"
+  },
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 320001 },
+      "model": "tmmw:item/guns/cmx27/main/main"
+    },
+    {
+      "predicate": { "custom_model_data": 320101 },
+      "model": "tmmw:item/guns/cmx27/ads/ironsight"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "tmmw:item/guns/cmx27/main/main",
+  "display": {
+    "firstperson_righthand": {
+      "rotation": [89, 7, 90],
+      "translation": [-2, 12, 5],
+      "scale": [0.8, 0.8, 0.8]
+    }
+  }
+}
