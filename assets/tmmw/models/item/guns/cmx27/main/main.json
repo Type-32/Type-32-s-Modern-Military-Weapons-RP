@@ -2,8 +2,8 @@
   "credit": "Made using Blockbench and Model by Type-32",
   "texture_size": [64, 64],
   "textures": {
-    "0": "tmmw:items/guns/cmx27",
-    "particle": "tmmw:items/guns/cmx27"
+    "0": "tmmw:item/guns/cmx27",
+    "particle": "tmmw:item/guns/cmx27"
   },
   "elements": [
     {
